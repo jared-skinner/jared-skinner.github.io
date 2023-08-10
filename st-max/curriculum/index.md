@@ -1,6 +1,6 @@
---
+---
 layout: curriculum
---
+---
 
 # St. Max Technology
 
