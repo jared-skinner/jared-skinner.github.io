@@ -1,3 +1,7 @@
+--
+layout: curriculum
+--
+
 # St. Max Technology
 
 ## St. Max Mission Technology Statement
