@@ -30,16 +30,16 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - st-max/curriculum/index.html
-  - st-max/curriculum/k/index.html
-  - st-max/curriculum/1/index.html
-  - st-max/curriculum/2/index.html
-  - st-max/curriculum/3/index.html
-  - st-max/curriculum/4/index.html
-  - st-max/curriculum/5/index.html
-  - st-max/curriculum/6/index.html
-  - st-max/curriculum/7/index.html
-  - st-max/curriculum/8/index.html
+  - st-max/curriculum/index.md
+  - st-max/curriculum/k/index.md
+  - st-max/curriculum/1/index.md
+  - st-max/curriculum/2/index.md
+  - st-max/curriculum/3/index.md
+  - st-max/curriculum/4/index.md
+  - st-max/curriculum/5/index.md
+  - st-max/curriculum/6/index.md
+  - st-max/curriculum/7/index.md
+  - st-max/curriculum/8/index.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
