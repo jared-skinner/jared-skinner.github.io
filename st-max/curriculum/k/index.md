@@ -1,3 +1,7 @@
+---
+layout: curriculum
+---
+
 # K Curriculum
 
 The first few years of technology are a bit tricky.  The kids are super excited to jump in to using the computers but they are missing the foundational skills required to enjoy the experience.  

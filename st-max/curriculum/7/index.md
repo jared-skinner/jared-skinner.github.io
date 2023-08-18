@@ -1,3 +1,7 @@
+---
+layout: curriculum
+---
+
 # 7 Curriculum
 
 Target 18 lessons: 9 for fall semester and 9 for spring semester
