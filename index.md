@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: root
 ---
 
 # Main Landing Page
