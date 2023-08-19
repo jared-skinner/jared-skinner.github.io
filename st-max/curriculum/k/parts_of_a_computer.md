@@ -1,3 +1,7 @@
+---
+layout: curriculum
+---
+
 # Parts of a Computer
 
 ## Goals

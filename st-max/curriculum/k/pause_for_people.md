@@ -1,3 +1,7 @@
+---
+layout: curriculum
+---
+
 # Pause for People
 
 ## Goals

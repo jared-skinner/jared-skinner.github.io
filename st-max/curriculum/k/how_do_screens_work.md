@@ -1,3 +1,7 @@
+---
+layout: curriculum
+---
+
 # How do Screens Work 
 
 ## Goals

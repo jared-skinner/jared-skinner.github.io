@@ -1,3 +1,7 @@
+---
+layout: curriculum
+---
+
 # How to Use a Track Pad 2
 
 ## Goals

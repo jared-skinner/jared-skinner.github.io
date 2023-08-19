@@ -1,3 +1,7 @@
+---
+layout: curriculum
+---
+
 # What is a Computer?
 
 ## Goals

@@ -1,3 +1,7 @@
+---
+layout: curriculum
+---
+
 # Safety in my Online Neighborhood
 
 ## Goals

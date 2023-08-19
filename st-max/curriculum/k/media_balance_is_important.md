@@ -1,3 +1,7 @@
+---
+layout: curriculum
+---
+
 # Media Balance is Important
 
 **Note** We will need an additional 10 mins of content.  This is a 25 min lesson
