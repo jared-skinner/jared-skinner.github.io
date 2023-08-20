@@ -39,7 +39,7 @@ Target 18 lessons: 9 for fall semester and 9 for spring semester
 
 * That's Private!
 
-* Digital Trails
+* Digital Trends
 
 * Who Is in Your Online Community
 
@@ -75,7 +75,7 @@ Target 18 lessons: 9 for fall semester and 9 for spring semester
 
 ### [Word Processing 1](word_processing_1.md)
 
-### [Digital Trails](digital_trails.md)
+### [Digital Trends](digital_trends.md)
 
 ### [Scratch 1](scratch_1.md)
 
