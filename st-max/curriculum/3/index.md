@@ -49,41 +49,41 @@ Target 18 lessons: 9 for fall semester and 9 for spring semester
 
 ## Lessons - Fall
 
-### [Magnets and Electricity]()
+### [Magnets and Electricity](magnets_and_electricity.md)
 
-### [Typing]()
+### [Typing](typing.md)
 
-### [Your Rings of Responsibility]()
+### [Your Rings of Responsibility](your_rings_of_responsibility.md)
 
-### [Word Processing 1]()
+### [Word Processing 1](word_processing_1.md)
 
-### [Password Power-Up]()
+### [Password Power-Up](password_power_up.md)
 
-### [CPUs and Calculators]()
+### [CPUs and Calculators](cpus_and_calculators.md)
 
-### [Word Processing 2]()
+### [Word Processing 2](word_processing_2.md)
 
-### [This is Me]()
+### [This is Me](this_is_me.md)
 
-### [Presentations 1]()
+### [Presentations 1](presentations_1.md)
 
 ## Lessons - Spring
 
-### [Artificial Intelligence]()
+### [Artificial Intelligence](artificial_intelligence.md)
 
-### [Presentations 2]()
+### [Presentations 2](presentations_2.md)
 
-### [Our Digitial Citizenship Pledge]()
+### [Our Digital Citizenship Pledge](our_digital_citizenship_pledge.md)
 
-### [Online Research]()
+### [Online Research](online_research.md)
 
-### [The Power of Words]()
+### [The Power of Words](the_power_of_words.md)
 
-### [Scratch 1]()
+### [Scratch 1](scratch_1.md)
 
-### [Is Seeing Believing]()
+### [Is Seeing Believing](is_seeing_believing.md)
 
-### [Scratch 2]()
+### [Scratch 2](scratch_2.md)
 
-### [AI and Academic Honesty]()
+### [AI and Academic Honesty](ai_and_academic_honesty.md)
 
