@@ -66,22 +66,31 @@ Target 18 lessons: 9 for fall semester and 9 for spring semester
 
 ### [What's an App?]()
 
-### [Presentations 1]()
-
 ### [Our Online Tracks]()
 
 ### [Documentary Blessed Carlo Acutis]()
 
+### [AI and Academic Honesty]()
+
+### [Presentations 1]()
+
+### [Finding Balance in a Digital World]()
+
+### [Presentations 2]()
+
+### [Don't Feed the Phish]()
+
+### [Generative AI]()
+
+### [We Are You Online?]()
+
+### [Excel 1]()
 
 ## Lessons - Spring
 
 ### [Binary]()
 
-### [Presentations 2]()
-
 ### [Keeping Games Fun and Friendly]()
-
-### [Research 1]()
 
 ### [Scratch 1]()
 
@@ -91,5 +100,17 @@ Target 18 lessons: 9 for fall semester and 9 for spring semester
 
 ### [Digital Friendships]()
 
-### [Excel]()
+### [Electricity]()
+
+### [Chatting Safely Online?]()
+
+### [Excel 2]()
+
+### [Research 1]()
+
+### [Digital Drama Unplugged]()
+
+### [Research 2]()
+
+### [Finding Credible News]()
 
