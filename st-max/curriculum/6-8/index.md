@@ -30,9 +30,9 @@ I am still actively making changes to this curriculum, so things are subject to 
 
 ### [AI and Academic Honesty](ai_and_academic_honesty.md)
 
-### [What is AI?]()
+### [What is AI?](what_is_ai.md)
 
-### [How can we use AI?]()
+### [How can we use AI?](how_can_we_use_ai.md)
 
 ### [How Networking Works](how_networking_works.md)
 
@@ -46,22 +46,22 @@ I am still actively making changes to this curriculum, so things are subject to 
 
 ## How a Computer Works
 
-### [Computer Tear Down]()
+### [Computer Tear Down](computer_tear_down.md)
 
-### [The File System]()
+### [The File System](the_file_system.md)
 
-### [The Open Source Community]()
+### [The Open Source Community](the_open_source_community.md)
 
-### [What is an Operating System?]()
+### [What is an Operating System?](what_is_an_operating_system.md)
 
 ### [The Right to Repair](the_right_to_repair.md)
 
-### [What Makes Something a Computer?]()
+### [What Makes Something a Computer?](what_makes_something_a_computer.md)
 
 
 ## Digital Citizenship
 
-### [The Power of Digital Footprints]()
+### [The Power of Digital Footprints](the_power_of_digital_footprints.md)
 
 
 ## Scratch Programming
@@ -77,7 +77,7 @@ I am still actively making changes to this curriculum, so things are subject to 
 
 ## Digital Citizenship
 
-### [My Media Use: A Personal Challenge]()
+### [My Media Use: A Personal Challenge](my_media_use_a_personal_challenge.md)
 
 ---
 
@@ -89,13 +89,13 @@ I am still actively making changes to this curriculum, so things are subject to 
 
 ## Python Programming
 
-### [Python Programming 1]()
+### [Python Programming 1](python_1.md)
 
-### [Python Programming 2]()
+### [Python Programming 2](python_2.md)
 
-### [Python Programming 3]()
+### [Python Programming 3](python_3.md)
 
-### [Python Programming 4]()
+### [Python Programming 4](python_4.md)
 
 
 ## Digital Citizenship
@@ -105,13 +105,13 @@ I am still actively making changes to this curriculum, so things are subject to 
 
 ## Physical Computing
 
-### [Physical Computing 1](physical_computing.md)
+### [Physical Computing 1](physical_computing_1.md)
 
-### [Physical Computing 2](physical_computing.md)
+### [Physical Computing 2](physical_computing_2.md)
 
-### [Physical Computing 3](physical_computing.md)
+### [Physical Computing 3](physical_computing_3.md)
 
-### [Physical Computing 4](physical_computing.md)
+### [Physical Computing 4](physical_computing_4.md)
 
 
 ## Digital Citizenship
@@ -125,9 +125,9 @@ I am still actively making changes to this curriculum, so things are subject to 
 
 ### [Excel 2](excel_2.md)
 
-### [Presentations 1]()
+### [Presentations 1](presentations_1.md)
 
-### [Presentations 2]()
+### [Presentations 2](presentations_2.md)
 
 ### [Research 1](research_1.md)
 
