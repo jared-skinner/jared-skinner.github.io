@@ -39,7 +39,9 @@ I am still actively making changes to this curriculum, so things are subject to 
 ### [Digital Media and Your Brain](digital_media_and_your_brain.md)
 
 
-## [Digital Citizenship - Chatting and Red Flags](chatting_and_red_flags.md)
+## Digital Citizenship
+
+### [Chatting and Red Flags](chatting_and_red_flags.md)
 
 
 ## How a Computer Works
@@ -57,7 +59,9 @@ I am still actively making changes to this curriculum, so things are subject to 
 ### [What Makes Something a Computer?]()
 
 
-## [Digital Citizenship - The Power of Digital Footprints]()
+## Digital Citizenship
+
+### [The Power of Digital Footprints]()
 
 
 ## Scratch Programming
@@ -71,12 +75,16 @@ I am still actively making changes to this curriculum, so things are subject to 
 ### [Scratch Programming 4](scratch_4.md)
 
 
-## [Digital Citizenship - My Media Use: A Personal Challenge]()
+## Digital Citizenship
+
+### [My Media Use: A Personal Challenge]()
 
 ---
 
 
-## [Digital Citizenship - Responding to Online Hate Speech](responding_to_online_hate_speech.md)
+## Digital Citizenship
+
+### [Responding to Online Hate Speech](responding_to_online_hate_speech.md)
 
 
 ## Python Programming
@@ -90,7 +98,9 @@ I am still actively making changes to this curriculum, so things are subject to 
 ### [Python Programming 4]()
 
 
-## [Digital Citizenship - This Just In!](this_just_in.md)
+## Digital Citizenship
+
+### [This Just In!](this_just_in.md)
 
 
 ## Physical Computing
@@ -104,7 +114,9 @@ I am still actively making changes to this curriculum, so things are subject to 
 ### [Physical Computing 4](physical_computing.md)
 
 
-### [Digital Citizenship - Being Aware of What You Share](being_aware_of_what_you_share.md)
+## Digital Citizenship
+
+### [Being Aware of What You Share](being_aware_of_what_you_share.md)
 
 
 ## Office
@@ -122,5 +134,7 @@ I am still actively making changes to this curriculum, so things are subject to 
 ### [Research 2](research_2.md)
 
 
-## [Digital Citizenship - Social Media and Digital Footprints: Our Responsibilities](social_media_and_digital_footprints.md)
+## Digital Citizenship
+
+### [Social Media and Digital Footprints: Our Responsibilities](social_media_and_digital_footprints.md)
 
