@@ -22,7 +22,7 @@ The classes will be split between instruction and lab work.  Hopefully this will
 
 The digital citizenship lessons are coming from Common Sense Media.  I don't have these lessons grouped together, rather I shuffled them into the year.
 
-The programming units focus on scratch, python, and physical computing.  A goal of the programming will be an introduction to logic and how to think clearly.  Programming lends itself well to understanding logical syllogisms.
+The programming units focus on scratch, python, and physical computing.  A goal of the programming will be an introduction to logic and how to think clearly.  Programming lends itself well to understanding logical syllogisms. 
 
 I am still actively making changes to this curriculum, so things are subject to change.
 
