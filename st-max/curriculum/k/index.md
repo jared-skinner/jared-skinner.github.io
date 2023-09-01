@@ -2,7 +2,7 @@
 layout: curriculum
 ---
 
-# K Curriculum
+# K Curriculum (2)
 
 The first few years of technology are a bit tricky.  The kids are super excited to jump in to using the computers but they are missing the foundational skills required to enjoy the experience.  
 
@@ -47,41 +47,37 @@ As far as activities on the computer are concerned, kids have a very hard time n
 
 ## Lessons - Fall
 
-### [What is a computer?](what_is_a_computer.md)
+### [09/11 - What is a computer?](what_is_a_computer.md)
 
-### [How to use a Track Pad 1 (WIP)](how_to_use_a_track_pad_1.md)
+### [09/25 - How to use a Track Pad 1 (WIP)](how_to_use_a_track_pad_1.md)
 
-### [Pause for People](pause_for_people.md)
+### [10/09 - Pause for People](pause_for_people.md)
 
-### [Parts of a computer (WIP)](parts_of_a_computer.md)
+### [10/23 - Parts of a computer (WIP)](parts_of_a_computer.md)
 
-### [How to use a Track Pad 2 (WIP)](how_to_use_a_track_pad_2.md)
+### [11/06 - How to use a Track Pad 2 (WIP)](how_to_use_a_track_pad_2.md)
 
-### [Safety in my Online Neighborhood](safety_in_my_online_neighborhood.md)
+### [11/20 - Safety in my Online Neighborhood](safety_in_my_online_neighborhood.md)
 
-### [What is electricity? (WIP)](what_is_electricity.md)
+### [12/04 - What is electricity? (WIP)](what_is_electricity.md)
 
-### [Making a Game in Scratch (WIP)](making_a_game_in_scratch.md)
-
-### [Playing the Game from Scratch (WIP)](playing_a_game_in_scratch.md)
+### [12/18 - Making a Game in Scratch (WIP)](making_a_game_in_scratch.md)
 
 
 ## Lessons - Spring
 
-### [How to Navigate an Application 1 (WIP)](how_to_navigate_an_application_1.md)
+### [01/22 - Playing the Game from Scratch (WIP)](playing_a_game_in_scratch.md)
 
-### [Media Balance is Important](media_balance_is_important.md)
+### [02/05 - How to Navigate an Application 1 (WIP)](how_to_navigate_an_application_1.md)
 
-### [How do Screens work? (WIP)](how_do_screens_work.md)
+### [02/26 - Media Balance is Important](media_balance_is_important.md)
 
-### [How to Navigate an Application 2 (WIP)](how_to_navigate_an_application_2.md)
+### [03/11 - How do Screens work? (WIP)](how_do_screens_work.md)
 
-### [Keyboards + Typing 1 (WIP)](keyboards_and_typing_1.md)
+### [04/01 - How to Navigate an Application 2 (WIP)](how_to_navigate_an_application_2.md)
 
-### [What is the internet? (WIP)](what_is_the_internet.md)
+### [04/15 - Keyboards + Typing 1 (WIP)](keyboards_and_typing_1.md)
 
-### [Keyboards + Typing 2 (WIP)](keyboards_and_typing_2.md)
+### [04/29 - What is the internet? (WIP)](what_is_the_internet.md)
 
-### [What is a Computer Program? (WIP)](what_is_a_computer_program.md)
-
-### [Physical Computing (WIP)](physical_computing.md)
+### [05/13 - Keyboards + Typing 2 (WIP)](keyboards_and_typing_2.md)

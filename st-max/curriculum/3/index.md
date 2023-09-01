@@ -49,41 +49,36 @@ Target 18 lessons: 9 for fall semester and 9 for spring semester
 
 ## Lessons - Fall
 
-### [Magnets and Electricity](magnets_and_electricity.md)
+### [09/11 - Magnets and Electricity (WIP)](magnets_and_electricity.md)
 
-### [Typing](typing.md)
+### [09/25 - Typing (WIP)](typing.md)
 
-### [Your Rings of Responsibility](your_rings_of_responsibility.md)
+### [10/09 - Your Rings of Responsibility (WIP)](your_rings_of_responsibility.md)
 
-### [Word Processing 1](word_processing_1.md)
+### [10/23 - Word Processing 1 (WIP)](word_processing_1.md)
 
-### [Password Power-Up](password_power_up.md)
+### [11/06 - Password Power-Up (WIP)](password_power_up.md)
 
-### [CPUs and Calculators](cpus_and_calculators.md)
+### [11/20 - CPUs and Calculators (WIP)](cpus_and_calculators.md)
 
-### [Word Processing 2](word_processing_2.md)
+### [12/04 - Word Processing 2 (WIP)](word_processing_2.md)
 
-### [This is Me](this_is_me.md)
-
-### [Presentations 1](presentations_1.md)
+### [12/18 - This is Me (WIP)](this_is_me.md)
 
 ## Lessons - Spring
 
-### [Artificial Intelligence](artificial_intelligence.md)
+### [01/22 - Presentations 1 (WIP)](presentations_1.md)
 
-### [Presentations 2](presentations_2.md)
+### [02/05 - Artificial Intelligence (WIP)](artificial_intelligence.md)
 
-### [Our Digital Citizenship Pledge](our_digital_citizenship_pledge.md)
+### [02/26 - Presentations 2 (WIP)](presentations_2.md)
 
-### [Online Research](online_research.md)
+### [03/11 - Our Digital Citizenship Pledge (WIP)](our_digital_citizenship_pledge.md)
 
-### [The Power of Words](the_power_of_words.md)
+### [04/01 - Online Research (WIP)](online_research.md)
 
-### [Scratch 1](scratch_1.md)
+### [04/15 - The Power of Words (WIP)](the_power_of_words.md)
 
-### [Is Seeing Believing](is_seeing_beliving.md)
+### [04/29 - Scratch 1 (WIP)](scratch_1.md)
 
-### [Scratch 2](scratch_2.md)
-
-### [AI and Academic Honesty](ai_and_academic_honesty.md)
-
+### [05/13 - Scratch 2 (WIP)](scratch_2.md)

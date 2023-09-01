@@ -82,7 +82,7 @@ Target 18 lessons: 9 for fall semester and 9 for spring semester
 
 ### [12/11 - Binary 2 (WIP)]()
 
-### [12/18 - Our Online Tracks (WIP)]
+### [12/18 - Our Online Tracks (WIP)]()
 
 ## Lessons - Spring
 

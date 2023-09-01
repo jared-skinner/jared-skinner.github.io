@@ -4,8 +4,6 @@ layout: curriculum
 
 # 2 Curriculum
 
-Target 18 lessons: 9 for fall semester and 9 for spring semester
-
 ## Goals
 
 ### Learn important skills
@@ -49,43 +47,39 @@ Target 18 lessons: 9 for fall semester and 9 for spring semester
 
 ## Lessons - Fall
 
-### [Short Term and Long Term Memory](short_term_and_long_term_memory.md)
+### [09/18 - Short Term and Long Term Memory (WIP)](short_term_and_long_term_memory.md)
 
-### [How to Use a Web Browser](how_to_use_a_web_browser.md)
+### [09/25 - How to Use a Web Browser (WIP)](how_to_use_a_web_browser.md)
 
-### [We, the Digital Citizens](we_the_digital_citizens.md)
+### [10/02 - We, the Digital Citizens (WIP)](we_the_digital_citizens.md)
 
-### [How Movies Work](how_movies_work.md)
+### [10/16 - How Movies Work (WIP)](how_movies_work.md)
 
-### [Typing 1](typing_1.md)
+### [10/30 - Typing 1 (WIP)](typing_1.md)
 
-### [Device-Free Moments](device_free_moments.md)
+### [11/13 - Device-Free Moments (WIP)](device_free_moments.md)
 
-### [What is a File?](what_is_a_file.md)
+### [11/27 - What is a File? (WIP)](what_is_a_file.md)
 
-### [Typing 2](typing_2.md)
-
-### [That's Private!](thats_private.md)
-
+### [12/11 - Typing 2 (WIP)](typing_2.md)
 
 
 ## Lessons - Spring
 
-### [What is Electricity](what_is_electricity.md)
+### [01/08 - That's Private! (WIP)](thats_private.md)
 
-### [Word Processing 1](word_processing_1.md)
+### [01/29 - What is Electricity (WIP)](what_is_electricity.md)
 
-### [Digital Trends](digital_trends.md)
+### [02/12 - Word Processing 1 (WIP)](word_processing_1.md)
 
-### [Scratch 1](scratch_1.md)
+### [03/04 - Digital Trends (WIP)](digital_trends.md)
 
-### [Word Processing 2](word_processing_2.md)
+### [03/18 - Scratch 1 (WIP)](scratch_1.md)
 
-### [Who is in Your Online Community](who_is_in_your_online_community.md)
+### [04/08 - Word Processing 2 (WIP)](word_processing_2.md)
 
-### [Scratch 2](scratch_2.md)
+### [04/22 - Who is in Your Online Community (WIP)](who_is_in_your_online_community.md)
 
-### [Presentations](presentations.md)
+### [05/06 - Scratch 2 (WIP)](scratch_2.md)
 
-### [Putting a Stop to Meanness](putting_a_stop_to_meanness.md)
-
+### [05/20 - Presentations (WIP)](presentations.md)
