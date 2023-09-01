@@ -54,63 +54,69 @@ Target 18 lessons: 9 for fall semester and 9 for spring semester
 
 ## Lessons - Fall
 
-### [Artificial Intelligence]()
+### [09/11 - Artificial Intelligence and Academic Honesty]()
 
-### [My Media Choices]()
+### [09/18 - My Media Choices]()
 
-### [Word Processing 1]()
+### [09/25 - Word Processing 1]()
 
-### [Private and Personal Information]()
+### [10/02 - Private and Personal Information]()
 
-### [Word Processing 2]()
+### [10/09 - Word Processing 2]()
 
-### [What's an App?]()
+### [10/16 - What's an App?]()
 
-### [Our Online Tracks]()
+### [10/23 - Our Online Tracks]()
 
-### [Documentary Blessed Carlo Acutis]()
+### [10/30 - Documentary Blessed Carlo Acutis]()
 
-### [AI and Academic Honesty]()
+### [11/06 - Presentations 1]()
 
-### [Presentations 1]()
+### [11/13 - Finding Balance in a Digital World]()
 
-### [Finding Balance in a Digital World]()
+### [11/20 - Presentations 2]()
 
-### [Presentations 2]()
+### [11/27 - Don't Feed the Phish]()
 
-### [Don't Feed the Phish]()
+### [12/04 - Generative AI]()
 
-### [Generative AI]()
+### [12/11 - We Are You Online?]()
 
-### [We Are You Online?]()
-
-### [Excel 1]()
+### [12/18 - Excel 1]()
 
 ## Lessons - Spring
 
-### [Binary]()
+### [01/08 - Binary]()
 
-### [Keeping Games Fun and Friendly]()
+### [01/22 - Keeping Games Fun and Friendly]()
 
-### [Scratch 1]()
+### [01/29 - Scratch 1]()
 
-### [Finding My Media Balance]()
+### [02/05 - Finding My Media Balance]()
 
-### [Scratch 2]()
+### [02/12 - Scratch 2]()
 
-### [Digital Friendships]()
+### [02/26 - Digital Friendships]()
 
-### [Electricity]()
+### [03/04 - Electricity]()
 
-### [Chatting Safely Online?]()
+### [03/11 - Chatting Safely Online?]()
 
-### [Excel 2]()
+### [03/18 - Excel 2]()
 
-### [Research 1]()
+### [04/01 - Research 1]()
 
-### [Digital Drama Unplugged]()
+### [04/08 - Digital Drama Unplugged]()
 
-### [Research 2]()
+### [04/15 - Research 2]()
 
-### [Finding Credible News]()
+### [04/22 - Finding Credible News]()
+
+### [04/29 - ]()
+
+### [05/06 - ]()
+
+### [05/13 - ]()
+
+### [05/20 - ]()
 
