@@ -30,7 +30,7 @@ I am still actively making changes to this curriculum, so things are subject to 
 
 ## AI
 
-### [09/11 - AI and Academic Honesty](ai_and_academic_honesty.md)
+### [09/11 - AI and Academic Honesty (WIP)](ai_and_academic_honesty.md)
 
 
 ## Digital Citizenship
@@ -40,19 +40,19 @@ I am still actively making changes to this curriculum, so things are subject to 
 
 ## How a Computer Works
 
-### [09/25 - Computer Tear Down](computer_tear_down.md)
+### [09/25 - Computer Tear Down (WIP)](computer_tear_down.md)
 
-### [10/02 - The File System](the_file_system.md)
+### [10/02 - The File System (WIP)](the_file_system.md)
 
-### [10/09 - The Open Source Community](the_open_source_community.md)
+### [10/09 - The Open Source Community (WIP)](the_open_source_community.md)
 
-### [10/16 - What is an Operating System?](what_is_an_operating_system.md)
+### [10/16 - What is an Operating System? (WIP)](what_is_an_operating_system.md)
 
-### [10/23 - The Right to Repair](the_right_to_repair.md)
+### [10/23 - The Right to Repair (WIP)](the_right_to_repair.md)
 
-### [10/30 - What Makes Something a Computer?](what_makes_something_a_computer.md)
+### [10/30 - What Makes Something a Computer? (WIP)](what_makes_something_a_computer.md)
 
-### [11/06 - How Networking Works](how_networking_works.md)
+### [11/06 - How Networking Works (WIP)](how_networking_works.md)
 
 
 ## Digital Citizenship
@@ -66,9 +66,9 @@ I am still actively making changes to this curriculum, so things are subject to 
 
 ### [11/27 - Scratch Programming 2](scratch_2.md)
 
-### [12/04 -  Scratch Programming 3](scratch_3.md)
+### [12/04 -  Scratch Programming 3 (WIP)](scratch_3.md)
 
-### [12/11 - Scratch Programming 4](scratch_4.md)
+### [12/11 - Scratch Programming 4 (WIP)](scratch_4.md)
 
 
 ## Digital Citizenship
@@ -89,9 +89,9 @@ I am still actively making changes to this curriculum, so things are subject to 
 
 ### [01/29 - Python Programming 2](python_2.md)
 
-### [02/05 - Python Programming 3](python_3.md)
+### [02/05 - Python Programming 3 (WIP)](python_3.md)
 
-### [02/12 - Python Programming 4](python_4.md)
+### [02/12 - Python Programming 4 (WIP)](python_4.md)
 
 
 ## Digital Citizenship
@@ -101,13 +101,13 @@ I am still actively making changes to this curriculum, so things are subject to 
 
 ## Physical Computing
 
-### [03/04 - Physical Computing 1](physical_computing_1.md)
+### [03/04 - Physical Computing 1 (WIP)](physical_computing_1.md)
 
-### [03/11 - Physical Computing 2](physical_computing_2.md)
+### [03/11 - Physical Computing 2 (WIP)](physical_computing_2.md)
 
-### [03/18 - Physical Computing 3](physical_computing_3.md)
+### [03/18 - Physical Computing 3 (WIP)](physical_computing_3.md)
 
-### [04/01 - Physical Computing 4](physical_computing_4.md)
+### [04/01 - Physical Computing 4 (WIP)](physical_computing_4.md)
 
 
 ## Digital Citizenship
@@ -121,11 +121,11 @@ I am still actively making changes to this curriculum, so things are subject to 
 
 ### [04/22 - Excel 2](excel_2.md)
 
-### [04/29 - Presentations 1](presentations_1.md)
+### [04/29 - Presentations 1 (WIP)](presentations_1.md)
 
-### [05/06 - Presentations 2](presentations_2.md)
+### [05/06 - Presentations 2 (WIP)](presentations_2.md)
 
-### [05/13 - Research](research_1.md)
+### [05/13 - Research (WIP)](research_1.md)
 
 
 ## Digital Citizenship

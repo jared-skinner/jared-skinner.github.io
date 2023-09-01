@@ -52,71 +52,70 @@ Target 18 lessons: 9 for fall semester and 9 for spring semester
 
 ---
 
-## Lessons - Fall
+## AI
 
-### [09/11 - Artificial Intelligence and Academic Honesty]()
+### [09/11 - Artificial Intelligence and Academic Honesty (WIP)]()
 
-### [09/18 - My Media Choices]()
+### [09/18 - Word Processing 1 (WIP)]()
 
-### [09/25 - Word Processing 1]()
+### [09/25 - Word Processing 2 (WIP)]()
 
-### [10/02 - Private and Personal Information]()
+### [10/02 - Word Processing 3 (WIP)]()
 
-### [10/09 - Word Processing 2]()
+### [10/09 - What's an App? (WIP)]()
 
-### [10/16 - What's an App?]()
+### [10/16 - My Media Choices (WIP)]()
 
-### [10/23 - Our Online Tracks]()
+### [10/23 - Research (WIP)]()
 
-### [10/30 - Documentary Blessed Carlo Acutis]()
+### [10/30 - Presentations 1 (WIP)]()
 
-### [11/06 - Presentations 1]()
+### [11/06 - Presentations 2 (WIP)]()
 
-### [11/13 - Finding Balance in a Digital World]()
+### [11/13 - Presentations 3 (WIP)]()
 
-### [11/20 - Presentations 2]()
+### [11/20 - Private and Personal Information (WIP)]()
 
-### [11/27 - Don't Feed the Phish]()
+### [11/27 - The Raspberry Pi (WIP)]()
 
-### [12/04 - Generative AI]()
+### [12/04 - Binary 1 (WIP)]()
 
-### [12/11 - We Are You Online?]()
+### [12/11 - Binary 2 (WIP)]()
 
-### [12/18 - Excel 1]()
+### [12/18 - Our Online Tracks (WIP)]
 
 ## Lessons - Spring
 
-### [01/08 - Binary]()
+### [01/08 - Don't Feed the Phish (WIP)]()
 
-### [01/22 - Keeping Games Fun and Friendly]()
+### [01/22 - Excel 1 (WIP)]()
 
-### [01/29 - Scratch 1]()
+### [01/29 - Excel 2 (WIP)]()
 
-### [02/05 - Finding My Media Balance]()
+### [02/05 - Excel 3 (WIP)]()
 
-### [02/12 - Scratch 2]()
+### [02/12 - Finding Credible News (WIP)]()
 
-### [02/26 - Digital Friendships]()
+### [02/26 - Electricity 1 (WIP)]()
 
-### [03/04 - Electricity]()
+### [03/04 - Electricity 2 (WIP)]()
 
-### [03/11 - Chatting Safely Online?]()
+### [03/11 - Finding Balance in a Digital World (WIP)]()
 
-### [03/18 - Excel 2]()
+### [03/18 - We Are You Online? (WIP)]()
 
-### [04/01 - Research 1]()
+### [04/01 - Scratch 1 (WIP)]()
 
-### [04/08 - Digital Drama Unplugged]()
+### [04/08 - Scratch 2 (WIP)]()
 
-### [04/15 - Research 2]()
+### [04/15 - Scratch 3 (WIP)]()
 
-### [04/22 - Finding Credible News]()
+### [04/22 - Chatting Safely Online?]()
 
-### [04/29 - ]()
+### [05/06 - Documentary Blessed Carlo Acutis (WIP)]()
 
-### [05/06 - ]()
+### [05/13 - Carlos Acutis Discussion (WIP)]()
 
-### [05/13 - ]()
+### [05/13 - Keeping Games Fun and Friendly (WIP)]()
 
-### [05/20 - ]()
-
+### [05/20 - Variables and Baba is You (WIP)]()
