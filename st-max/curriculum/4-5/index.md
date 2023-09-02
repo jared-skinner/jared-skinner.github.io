@@ -54,7 +54,7 @@ Target 18 lessons: 9 for fall semester and 9 for spring semester
 
 ## AI
 
-### [09/11 - Artificial Intelligence and Academic Honesty (WIP)]()
+### [09/11 - Artificial Intelligence and Academic Honesty](ai_and_academic_honesty.md)
 
 ### [09/18 - Word Processing 1 (WIP)]()
 

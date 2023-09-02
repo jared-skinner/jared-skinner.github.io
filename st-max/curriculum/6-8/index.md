@@ -30,7 +30,7 @@ I am still actively making changes to this curriculum, so things are subject to 
 
 ## AI
 
-### [09/11 - AI and Academic Honesty (WIP)](ai_and_academic_honesty.md)
+### [09/11 - AI and Academic Honesty](ai_and_academic_honesty.md)
 
 
 ## Digital Citizenship
