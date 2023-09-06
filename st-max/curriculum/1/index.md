@@ -49,13 +49,13 @@ I have been working on focusing the curriculum to be a bit more age appropriate.
 
 ## Lessons - Fall
 
-### [09/18 - Parts of a Computer (WIP)](parts_of_a_computer.md)
+### [09/18 - Parts of a Computer](parts_of_a_computer.md)
 
 ### [10/02 - How to Use a Computer (WIP)](how_to_use_a_computer.md)
 
 ### [10/16 - What is Electricity? (WIP)](what_is_electricity.md)
 
-### [10/30 - Pause and Think Online (WIP)](pause_and_think_online.md)
+### [10/30 - Pause and Think Online](pause_and_think_online.md)
 
 ### [11/13 - How to Use a Web Browser (WIP)](how_to_use_a_web_browser.md)
 
