@@ -4,7 +4,10 @@ layout: curriculum
 
 # 1 Curriculum
 
-Target 18 lessons: 9 for fall semester and 9 for spring semester
+(9 kids)
+
+I have been working on focusing the curriculum to be a bit more age appropriate.  I'm looking forward to this next year.
+
 
 ## Goals
 
@@ -46,7 +49,7 @@ Target 18 lessons: 9 for fall semester and 9 for spring semester
 
 ## Lessons - Fall
 
-### [09/18 - What are Computers For? (WIP)](what_are_computers_for.md)
+### [09/18 - Parts of a Computer (WIP)](parts_of_a_computer.md)
 
 ### [10/02 - How to Use a Computer (WIP)](how_to_use_a_computer.md)
 

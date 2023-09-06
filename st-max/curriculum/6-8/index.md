@@ -4,6 +4,8 @@ layout: curriculum
 
 # Middle School Curriculum
 
+(17 kids)
+
 As with the other grades, we are focused on three areas:
 
 * What is technology?

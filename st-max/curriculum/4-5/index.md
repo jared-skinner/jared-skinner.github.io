@@ -4,55 +4,34 @@ layout: curriculum
 
 # 4/5 Curriculum
 
-Target 18 lessons: 9 for fall semester and 9 for spring semester
+(10 kids) - Looking forward to working with the 4/5th graders.  Meeting weekly will give us the opportunity to spend a lot more time on building up skills.
 
 ## Goals
 
 ### Learn important skills
 
 * Word Processing
-
 * Presentations
-
 * Excel
-
 * Research
-
 * Scratch
 
 
 ### Understand how technology works
 
 * Artificial Intelligence
-
 * What's and App?
-
 * Binary
 
 
-### Understand how to use technology appropriately (Digital Citizenship)
-
-* My Media Choices
-
-* Private and Personal Information
-
-* Our Online Tracks
-
-* Keeping Games Fun and Friendly
-
-* Finding My Media Balance
-
-* You Won't Believe This!
-
-* Digital Friendships
-
-* Is It Cyberbullying?
+### Understand how to use technology appropriately
 
 * AI and Academic Honesty
+* Digital Citizenship
 
 ---
 
-## AI
+## Lessons - Fall
 
 ### [09/11 - Artificial Intelligence and Academic Honesty](ai_and_academic_honesty.md)
 

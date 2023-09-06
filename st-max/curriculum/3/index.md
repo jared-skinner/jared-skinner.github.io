@@ -4,7 +4,10 @@ layout: curriculum
 
 # 3 Curriculum
 
-Target 18 lessons: 9 for fall semester and 9 for spring semester
+(14 kids)
+
+This should be a super fun year.  I've been revising the curriculum from last year to this year to be a bit more coherent.
+
 
 ## Goals
 
@@ -31,25 +34,11 @@ Target 18 lessons: 9 for fall semester and 9 for spring semester
 
 ### Understand how to use technology appropriately (Digital Citizenship)
 
-* Your Rings of Responsibility
-
-* Password Power-Up
-
-* This is Me
-
-* Our Digital Citizenship Pledge
-
-* The Power of Words
-
-* Is Seeing Believing?
-
-* AI and Academic Honesty
-
 ---
 
 ## Lessons - Fall
 
-### [09/11 - Magnets and Electricity (WIP)](magnets_and_electricity.md)
+### [09/11 - Magnets and Electricity](magnets_and_electricity.md)
 
 ### [09/25 - Typing (WIP)](typing.md)
 

@@ -4,6 +4,10 @@ layout: curriculum
 
 # 2 Curriculum
 
+(12 kids)
+
+I'm looking forward to another great year!
+
 ## Goals
 
 ### Learn important skills
