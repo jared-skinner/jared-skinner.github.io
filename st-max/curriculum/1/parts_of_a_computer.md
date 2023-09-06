@@ -12,9 +12,11 @@ layout: curriculum
 
 ## Materials
 
-* [Slides]()
+* [Slides](https://docs.google.com/presentation/d/142CZUQFR5LM_zhoZVJRIN_JKHuuxgo2HrTgM3mE6aOg/edit?usp=sharing)
 
-* [Coloring Sheets]()
+* [Coloring Sheets](https://drive.google.com/file/d/1b6Qdq0u6kKglePo-BzBYgZZkFaWlXm-N/view?usp=sharing)
+
+* Computer Parts
 
 ## Lesson
 
