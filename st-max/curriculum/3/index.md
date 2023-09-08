@@ -40,7 +40,7 @@ This should be a super fun year.  I've been revising the curriculum from last ye
 
 ### [09/11 - Magnets and Electricity](magnets_and_electricity.md)
 
-### [09/25 - Typing (WIP)](typing.md)
+### [09/25 - Typing](typing.md)
 
 ### [10/09 - Your Rings of Responsibility (WIP)](your_rings_of_responsibility.md)
 
