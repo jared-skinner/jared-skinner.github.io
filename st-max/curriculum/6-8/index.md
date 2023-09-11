@@ -44,7 +44,7 @@ I am still actively making changes to this curriculum, so things are subject to 
 
 ### [09/25 - Computer Tear Down (WIP)](computer_tear_down.md)
 
-### [10/02 - The File System (WIP)](the_file_system.md)
+### [10/02 - The File System](the_file_system.md)
 
 ### [10/09 - The Open Source Community (WIP)](the_open_source_community.md)
 
