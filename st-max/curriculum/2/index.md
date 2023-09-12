@@ -53,7 +53,7 @@ I'm looking forward to another great year!
 
 ### [09/18 - Short Term and Long Term Memory](short_term_and_long_term_memory.md)
 
-### [10/02 - We, the Digital Citizens (WIP)](we_the_digital_citizens.md)
+### [10/02 - We, the Digital Citizens](we_the_digital_citizens.md)
 
 ### [10/16 - How Movies Work (WIP)](how_movies_work.md)
 
