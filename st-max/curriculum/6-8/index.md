@@ -42,7 +42,7 @@ I am still actively making changes to this curriculum, so things are subject to 
 
 ## How a Computer Works
 
-### [09/25 - Computer Tear Down (WIP)](computer_tear_down.md)
+### [09/25 - Computer Tear Down](computer_tear_down.md)
 
 ### [10/02 - The File System](the_file_system.md)
 
