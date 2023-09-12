@@ -39,7 +39,7 @@ layout: curriculum
 
 ### [09/25 - Word Processing 2](word_processing_2.md)
 
-### [10/02 - Word Processing 3 (WIP)](word_processing_3.md)
+### [10/02 - Word Processing 3](word_processing_3.md)
 
 ### [10/09 - What's an App? (WIP)]()
 
