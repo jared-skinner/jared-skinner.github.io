@@ -35,11 +35,11 @@ layout: curriculum
 
 ### [09/11 - Artificial Intelligence and Academic Honesty](ai_and_academic_honesty.md)
 
-### [09/18 - Word Processing 1 (WIP)]()
+### [09/18 - Word Processing 1](word_processing_1.md)
 
-### [09/25 - Word Processing 2 (WIP)]()
+### [09/25 - Word Processing 2](word_processing_2.md)
 
-### [10/02 - Word Processing 3 (WIP)]()
+### [10/02 - Word Processing 3 (WIP)](word_processing_3.md)
 
 ### [10/09 - What's an App? (WIP)]()
 
