@@ -20,8 +20,6 @@ layout: curriculum
 
 ## Materials
 
-* [Slides](https://docs.google.com/presentation/d/1_mUK-Tnyho5yQ5GOAHMDNknCPkLX8saQUbCaqRH4O6M/edit?usp=sharing)
-
 * [ChatGPT](https://chat.openai.com/)
 
 ## Lesson
