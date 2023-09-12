@@ -20,7 +20,9 @@ layout: curriculum
 
 * Hard Drive
 
-* [Slides]()
+* [Binary Name Activity](https://docs.google.com/document/d/1UYQ5KELoi5ijzgebv6IzTKOYFEyfCOFlwyk1acIYf8A/edit)
+
+* [ASCII - Binary Table](https://docs.google.com/document/d/1XnKUrcLt6yTg9GR7pT0C3W4h1EuLq6BGoyZ12mPEfrE/edit)
 
 ## Lesson
 
@@ -41,4 +43,7 @@ layout: curriculum
 * Today talk about 
 
 * How is information stored?
+
+* What is binary
+
 

@@ -20,8 +20,20 @@ layout: curriculum
 
 ## Lesson
 
-* 
+* Types of computers 
 
-* 
+* Parts
 
-* 
+  * Motherboard
+
+  * HDD/SSD
+
+  * RAM
+
+  * Power Supply
+
+  * CPU 
+
+  * Cooler
+
+* Activity - put together and color a paper computer
