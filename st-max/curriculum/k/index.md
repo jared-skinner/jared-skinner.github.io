@@ -51,7 +51,7 @@ As far as activities on the computer are concerned, kids have a very hard time n
 
 ### [09/11 - What is a computer?](what_is_a_computer.md)
 
-### [09/25 - How to use a Track Pad 1 (WIP)](how_to_use_a_track_pad_1.md)
+### [09/25 - How to use a Track Pad 1](how_to_use_a_track_pad_1.md)
 
 ### [10/09 - Pause for People](pause_for_people.md)
 

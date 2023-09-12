@@ -19,7 +19,7 @@ layout: curriculum
 
 * Mouse
 
-* [Games (TODO)]()
+* [Games](https://jared-skinner.github.io/st-max/resources/k)
 
 ## Lesson Plan
 
@@ -48,4 +48,3 @@ layout: curriculum
 
 ### Games (20 - 25 mins)
 
-* TODO
