@@ -51,7 +51,7 @@ I have been working on focusing the curriculum to be a bit more age appropriate.
 
 ### [09/18 - Parts of a Computer](parts_of_a_computer.md)
 
-### [10/02 - How to Use a Computer (WIP)](how_to_use_a_computer.md)
+### [10/02 - How to Use a Computer](how_to_use_a_computer.md)
 
 ### [10/16 - What is Electricity? (WIP)](what_is_electricity.md)
 
