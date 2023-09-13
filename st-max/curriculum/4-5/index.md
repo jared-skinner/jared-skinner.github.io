@@ -41,7 +41,7 @@ layout: curriculum
 
 ### [10/02 - Word Processing 3](word_processing_3.md)
 
-### [10/09 - What's an App? (WIP)]()
+### [10/09 - What's an App?](whats_an_app.md)
 
 ### [10/16 - My Media Choices (WIP)]()
 

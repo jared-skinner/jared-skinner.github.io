@@ -46,7 +46,7 @@ I am still actively making changes to this curriculum, so things are subject to 
 
 ### [10/02 - The File System](the_file_system.md)
 
-### [10/09 - The Open Source Community (WIP)](the_open_source_community.md)
+### [10/09 - The Open Source Community](the_open_source_community.md)
 
 ### [10/16 - What is an Operating System? (WIP)](what_is_an_operating_system.md)
 
