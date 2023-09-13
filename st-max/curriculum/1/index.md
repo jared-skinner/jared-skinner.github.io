@@ -53,7 +53,7 @@ I have been working on focusing the curriculum to be a bit more age appropriate.
 
 ### [10/02 - How to Use a Computer](how_to_use_a_computer.md)
 
-### [10/16 - What is Electricity? (WIP)](what_is_electricity.md)
+### [10/16 - What is Electricity?](what_is_electricity.md)
 
 ### [10/30 - Pause and Think Online](pause_and_think_online.md)
 
