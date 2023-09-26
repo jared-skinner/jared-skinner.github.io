@@ -63,7 +63,7 @@ As far as activities on the computer are concerned, kids have a very hard time n
 
 ### [12/04 - What is electricity? (WIP)](what_is_electricity.md)
 
-### [12/18 - Making a Game in Scratch (WIP)](making_a_game_in_scratch.md)
+### [12/18 - Making a Game in Scratch](making_a_game_in_scratch.md)
 
 
 ## Lessons - Spring
