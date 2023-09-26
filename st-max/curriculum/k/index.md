@@ -57,7 +57,7 @@ As far as activities on the computer are concerned, kids have a very hard time n
 
 ### [10/23 - Parts of a computer](parts_of_a_computer.md)
 
-### [11/06 - How to use a Track Pad 2 (WIP)](how_to_use_a_track_pad_2.md)
+### [11/06 - How to use a Track Pad 2](how_to_use_a_track_pad_2.md)
 
 ### [11/20 - Safety in my Online Neighborhood](safety_in_my_online_neighborhood.md)
 
