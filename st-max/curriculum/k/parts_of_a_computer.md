@@ -13,17 +13,8 @@ layout: curriculum
 
 ## Materials
 
-* [Slides](https://docs.google.com/presentation/d/1o7f-5UYw-m3OzBKw1VkpNGH7pAHGDGBG_gCl_f03kNA/edit#slide=id.g25f037f13e8_0_93)
-* Activity
-  * Coloring Sheet with PC Parts
-    * Mother Board
-    * CPU 
-    * RAM 
-    * HDD 
-    * Power Supply
-  * Tape
-  * Scissors
-  * Colors
+* [Slides](https://docs.google.com/presentation/d/142CZUQFR5LM_zhoZVJRIN_JKHuuxgo2HrTgM3mE6aOg/edit?usp=sharing)
+* [Coloring Sheets](https://drive.google.com/file/d/1b6Qdq0u6kKglePo-BzBYgZZkFaWlXm-N/view?usp=sharing)
 
 ## Lesson Plan
 
@@ -50,4 +41,15 @@ layout: curriculum
 
 ### Activity Color and Build a PC (10 - 15 mins)
 
-Coloring Sheer
+Coloring Sheet
+
+* Activity
+  * Coloring Sheet with PC Parts
+    * Mother Board
+    * CPU 
+    * RAM 
+    * HDD 
+    * Power Supply
+  * Tape
+  * Scissors
+  * Colors

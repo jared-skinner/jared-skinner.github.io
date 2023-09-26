@@ -55,26 +55,26 @@ As far as activities on the computer are concerned, kids have a very hard time n
 
 ### [10/09 - Pause for People](pause_for_people.md)
 
-### [10/23 - Parts of a computer (WIP)](parts_of_a_computer.md)
+### [10/23 - Parts of a computer](parts_of_a_computer.md)
 
 ### [11/06 - How to use a Track Pad 2 (WIP)](how_to_use_a_track_pad_2.md)
 
 ### [11/20 - Safety in my Online Neighborhood](safety_in_my_online_neighborhood.md)
 
-### [12/04 - What is electricity? (WIP)](what_is_electricity.md)
+### [12/04 - What is electricity?](what_is_electricity.md)
 
 ### [12/18 - Making a Game in Scratch](making_a_game_in_scratch.md)
 
 
 ## Lessons - Spring
 
-### [01/22 - Playing the Game from Scratch (WIP)](playing_a_game_in_scratch.md)
+### [01/22 - Playing the Game from Scratch](playing_a_game_in_scratch.md)
 
 ### [02/05 - How to Navigate an Application 1 (WIP)](how_to_navigate_an_application_1.md)
 
 ### [02/26 - Media Balance is Important](media_balance_is_important.md)
 
-### [03/11 - How do Screens work? (WIP)](how_do_screens_work.md)
+### [03/11 - How do Screens work?](how_do_screens_work.md)
 
 ### [04/01 - How to Navigate an Application 2 (WIP)](how_to_navigate_an_application_2.md)
 
