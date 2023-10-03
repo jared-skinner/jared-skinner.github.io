@@ -43,7 +43,7 @@ layout: curriculum
 
 ### [10/09 - What's an App?](whats_an_app.md)
 
-### [10/16 - My Media Choices (WIP)]()
+### [10/16 - My Media Choices](my_media_choices.md)
 
 ### [10/23 - Research (WIP)]()
 
@@ -53,7 +53,7 @@ layout: curriculum
 
 ### [11/13 - Presentations 3 (WIP)]()
 
-### [11/20 - Private and Personal Information (WIP)]()
+### [11/20 - Private and Personal Information](private_and_personal_information.md)
 
 ### [11/27 - The Raspberry Pi (WIP)]()
 
@@ -61,7 +61,7 @@ layout: curriculum
 
 ### [12/11 - Binary 2 (WIP)]()
 
-### [12/18 - Our Online Tracks (WIP)]()
+### [12/18 - Our Online Tracks](our_online_tracks.md)
 
 ## Lessons - Spring
 
