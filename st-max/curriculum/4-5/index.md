@@ -45,9 +45,9 @@ layout: curriculum
 
 ### [10/16 - My Media Choices](my_media_choices.md)
 
-### [10/23 - Research (WIP)]()
+### [10/23 - Research (WIP)](research.md)
 
-### [10/30 - Presentations 1 (WIP)]()
+### [10/30 - Presentations 1 (WIP)](presentations_1.md)
 
 ### [11/06 - Presentations 2 (WIP)]()
 
@@ -55,7 +55,7 @@ layout: curriculum
 
 ### [11/20 - Private and Personal Information](private_and_personal_information.md)
 
-### [11/27 - The Raspberry Pi (WIP)]()
+### [11/27 - The Raspberry Pi (WIP)](raspberry_ip)
 
 ### [12/04 - Binary 1 (WIP)]()
 

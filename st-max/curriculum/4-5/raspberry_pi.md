@@ -2,16 +2,10 @@
 layout: curriculum
 ---
 
-# Research
+# The Raspberry Pi 
 
 ## Goals
 
-* 
-
 ## Materials
 
-* 
-
 ## Lessons
-
-* 
