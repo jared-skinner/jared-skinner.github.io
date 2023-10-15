@@ -55,7 +55,7 @@ I'm looking forward to another great year!
 
 ### [10/02 - We, the Digital Citizens](we_the_digital_citizens.md)
 
-### [10/16 - How Movies Work (WIP)](how_movies_work.md)
+### [10/16 - How Movies Work](how_movies_work.md)
 
 ### [10/30 - Typing 1 (WIP)](typing_1.md)
 
