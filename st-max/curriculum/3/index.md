@@ -44,7 +44,7 @@ This should be a super fun year.  I've been revising the curriculum from last ye
 
 ### [10/09 - Your Rings of Responsibility](your_rings_of_responsibility.md)
 
-### [10/23 - Word Processing 1 (WIP)](word_processing_1.md)
+### [10/23 - Word Processing 1](word_processing_1.md)
 
 ### [11/06 - Password Power-Up (WIP)](password_power_up.md)
 
