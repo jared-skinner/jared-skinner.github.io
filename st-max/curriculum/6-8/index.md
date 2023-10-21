@@ -50,6 +50,8 @@ I am still actively making changes to this curriculum, so things are subject to 
 
 ### [10/16 - What is an Operating System?](what_is_an_operating_system.md)
 
+### [10/23 - Linux](linux.md)
+
 ### [10/23 - The Right to Repair (WIP)](the_right_to_repair.md)
 
 ### [10/30 - What Makes Something a Computer? (WIP)](what_makes_something_a_computer.md)
