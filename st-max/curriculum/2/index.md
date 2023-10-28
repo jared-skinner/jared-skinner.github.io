@@ -57,7 +57,7 @@ I'm looking forward to another great year!
 
 ### [10/16 - How Movies Work](how_movies_work.md)
 
-### [10/30 - Typing 1 (WIP)](typing_1.md)
+### [10/30 - Typing 1](typing_1.md)
 
 ### [11/13 - Device-Free Moments (WIP)](device_free_moments.md)
 

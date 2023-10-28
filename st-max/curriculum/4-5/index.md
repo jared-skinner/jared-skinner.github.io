@@ -47,7 +47,7 @@ layout: curriculum
 
 ### [10/23 - Research](research.md)
 
-### [10/30 - Presentations 1 (WIP)](presentations_1.md)
+### [10/30 - Presentations 1](presentations_1.md)
 
 ### [11/06 - Presentations 2 (WIP)]()
 
