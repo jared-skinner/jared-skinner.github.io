@@ -16,7 +16,7 @@ layout: curriculum
 
 ## Materials
 
-* [Video](TODO... Uploading to drive)
+* [Video](https://drive.google.com/file/d/1iQFSaBtciCu5AgLgR9ZG7yLLV9IuTf4J/view?usp=sharing)
 
 ## Lesson
 
