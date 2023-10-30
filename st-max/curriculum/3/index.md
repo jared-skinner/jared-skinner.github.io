@@ -46,7 +46,7 @@ This should be a super fun year.  I've been revising the curriculum from last ye
 
 ### [10/23 - Word Processing 1](word_processing_1.md)
 
-### [11/06 - Password Power-Up (WIP)](password_power_up.md)
+### [11/06 - Password Power-Up](password_power_up.md)
 
 ### [11/20 - CPUs and Calculators (WIP)](cpus_and_calculators.md)
 
