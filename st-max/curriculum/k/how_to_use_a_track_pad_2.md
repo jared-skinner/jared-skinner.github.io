@@ -11,9 +11,7 @@ layout: curriculum
 
 ## Materials
 
-* [Power Point (TODO)]()
-
-* [Games (TODO)]()
+* Games (linked to from main site)
 
 ## Lesson Plan
 
