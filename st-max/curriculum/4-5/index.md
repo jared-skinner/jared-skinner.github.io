@@ -37,9 +37,9 @@ layout: curriculum
 
 ### [09/18 - Word Processing 1](word_processing_1.md)
 
-### [09/25 - Word Processing 2 (wip)](word_processing_2.md)
+### [09/25 - Word Processing 2](word_processing_2.md)
 
-### [10/02 - Word Processing 3 (wip)](word_processing_3.md)
+### [10/02 - Word Processing 3](word_processing_3.md)
 
 ### [10/09 - What's an App?](whats_an_app.md)
 
@@ -49,7 +49,7 @@ layout: curriculum
 
 ### [10/30 - Presentations 1](presentations_1.md)
 
-### [11/06 - Presentations 2 (WIP)](presentations_2.md)
+### [11/06 - Presentations 2](presentations_2.md)
 
 ### [11/13 - Presentations 3 (WIP)](presentations_3.md)
 
