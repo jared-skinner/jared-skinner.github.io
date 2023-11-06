@@ -51,7 +51,7 @@ layout: curriculum
 
 ### [11/06 - Presentations 2](presentations_2.md)
 
-### [11/13 - Presentations 3 (WIP)](presentations_3.md)
+### [11/13 - The Internet of Things (WIP)](iot.md)
 
 ### [11/20 - Private and Personal Information](private_and_personal_information.md)
 

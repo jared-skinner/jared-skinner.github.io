@@ -51,13 +51,13 @@ I have been working on focusing the curriculum to be a bit more age appropriate.
 
 ### [09/18 - Parts of a Computer](parts_of_a_computer.md)
 
-### [10/02 - How to Use a Computer](how_to_use_a_computer.md)
+### [10/02 - How to Use a Computer 1](how_to_use_a_computer.md)
 
-### [10/16 - What is Electricity?](what_is_electricity.md)
+### [10/16 - How to Use a Computer 2](how_to_use_a_computer.md)
 
-### [10/30 - Pause and Think Online](pause_and_think_online.md)
+### [10/30 - What is Electricity?](what_is_electricity.md)
 
-### [11/13 - How to Use a Web Browser (WIP)](how_to_use_a_web_browser.md)
+### [11/13 - Pause and Think Online](pause_and_think_online.md)
 
 ### [11/27 - How Do Computers Store Information? (WIP)](how_do_computers_store_information.md)
 
