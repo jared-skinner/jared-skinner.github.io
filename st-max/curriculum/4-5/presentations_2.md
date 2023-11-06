@@ -16,6 +16,8 @@ layout: curriculum
 
 ## Materials
 
+* [Slides](https://docs.google.com/presentation/d/1JIAshSURfQFcQvKWol2nm_1gvvHmrlcsAH3vFaoaTOc/edit#slide=id.p)
+
 ## Lesson
 
 * Background
