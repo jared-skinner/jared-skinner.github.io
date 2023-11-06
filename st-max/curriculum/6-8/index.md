@@ -54,10 +54,9 @@ I am still actively making changes to this curriculum, so things are subject to 
 
 ### [10/30 - The Right to Repair](the_right_to_repair.md)
 
-### [10/30 - What Makes Something a Computer? (WIP)](what_makes_something_a_computer.md)
+### [11/06 - How Networking Works 1](how_networking_works_1.md)
 
-### [11/06 - How Networking Works (WIP)](how_networking_works.md)
-
+### [11/06 - How Networking Works 2](how_networking_works_2.md)
 
 ## Digital Citizenship
 
