@@ -59,7 +59,7 @@ I'm looking forward to another great year!
 
 ### [10/30 - Typing 1](typing_1.md)
 
-### [11/13 - Device-Free Moments (WIP)](device_free_moments.md)
+### [11/13 - Device-Free Moments](device_free_moments.md)
 
 ### [11/27 - What is a File? (WIP)](what_is_a_file.md)
 
