@@ -48,7 +48,7 @@ This should be a super fun year.  I've been revising the curriculum from last ye
 
 ### [11/06 - Password Power-Up](password_power_up.md)
 
-### [11/20 - CPUs and Calculators (WIP)](cpus_and_calculators.md)
+### [11/20 - Systems Design](systems_design.md)
 
 ### [12/04 - Word Processing 2 (WIP)](word_processing_2.md)
 
