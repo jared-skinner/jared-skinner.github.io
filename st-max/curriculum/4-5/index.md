@@ -55,11 +55,11 @@ layout: curriculum
 
 ### [11/20 - Private and Personal Information](private_and_personal_information.md)
 
-### [11/27 - The Raspberry Pi (WIP)](raspberry_ip)
+### [11/27 - The Raspberry Pi 1 - Electricity](raspberry_ip)
+
+### [11/27 - The Raspberry Pi 2 - Physical Computing (WIP)](raspberry_ip)
 
 ### [12/04 - Binary 1 (WIP)]()
-
-### [12/11 - Binary 2 (WIP)]()
 
 ### [12/18 - Our Online Tracks](our_online_tracks.md)
 

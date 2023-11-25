@@ -59,7 +59,7 @@ I have been working on focusing the curriculum to be a bit more age appropriate.
 
 ### [11/13 - Pause and Think Online](pause_and_think_online.md)
 
-### [11/27 - How Do Computers Store Information? (WIP)](how_do_computers_store_information.md)
+### [11/27 - How Do Computers Store Information?](how_do_computers_store_information.md)
 
 ### [12/11 - How Technology Makes You Feel (WIP)](how_technology_makes_you_feel.md)
 
