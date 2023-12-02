@@ -50,7 +50,7 @@ This should be a super fun year.  I've been revising the curriculum from last ye
 
 ### [11/20 - Systems Design](systems_design.md)
 
-### [12/04 - Word Processing 2 (WIP)](word_processing_2.md)
+### [12/04 - Word Processing 2](word_processing_2.md)
 
 ### [12/18 - This is Me (WIP)](this_is_me.md)
 
