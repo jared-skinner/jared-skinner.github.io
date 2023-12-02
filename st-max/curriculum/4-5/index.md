@@ -57,7 +57,7 @@ layout: curriculum
 
 ### [11/27 - The Raspberry Pi 1 - Electricity](raspberry_pi.md)
 
-### [11/27 - The Raspberry Pi 2 - Physical Computing (WIP)](raspberry_ip)
+### [11/27 - The Raspberry Pi 2 - Physical Computing](raspberry_pi2.md)
 
 ### [12/04 - Binary 1 (WIP)]()
 

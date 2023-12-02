@@ -69,7 +69,7 @@ I am still actively making changes to this curriculum, so things are subject to 
 
 ### [11/27 - Scratch Programming 2](scratch_2.md)
 
-### [12/04 -  Scratch Programming 3 (WIP)](scratch_3.md)
+### [12/04 -  Scratch Programming 3](scratch_3.md)
 
 ### [12/11 - Scratch Programming 4 (WIP)](scratch_4.md)
 
