@@ -8,7 +8,7 @@ layout: curriculum
 
 * Know what an object is
 
-* Understand how to use a loop
+* Debugging
 
 ## Materials
 
