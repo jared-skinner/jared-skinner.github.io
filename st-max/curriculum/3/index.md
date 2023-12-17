@@ -52,7 +52,7 @@ This should be a super fun year.  I've been revising the curriculum from last ye
 
 ### [12/04 - Word Processing 2](word_processing_2.md)
 
-### [12/18 - This is Me](this_is_me.md)
+### [12/18 - Is Seeing Believing?](is_seeing_believing.md)
 
 ## Lessons - Spring
 
