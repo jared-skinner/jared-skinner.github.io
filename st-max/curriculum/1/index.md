@@ -61,7 +61,7 @@ I have been working on focusing the curriculum to be a bit more age appropriate.
 
 ### [11/27 - How Do Computers Store Information?](how_do_computers_store_information.md)
 
-### [12/11 - How Technology Makes You Feel (WIP)](how_technology_makes_you_feel.md)
+### [12/11 - How Technology Makes You Feel](how_technology_makes_you_feel.md)
 
 ## Lessons - Spring
 

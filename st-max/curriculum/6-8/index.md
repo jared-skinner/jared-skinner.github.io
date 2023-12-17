@@ -71,7 +71,7 @@ I am still actively making changes to this curriculum, so things are subject to 
 
 ### [12/04 -  Scratch Programming 3](scratch_3.md)
 
-### [12/11 - Scratch Programming 4 (WIP)](scratch_4.md)
+### [12/11 - Scratch Programming 4](scratch_4.md)
 
 
 ## Digital Citizenship

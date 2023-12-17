@@ -59,7 +59,7 @@ layout: curriculum
 
 ### [11/27 - The Raspberry Pi 2 - Physical Computing](raspberry_pi2.md)
 
-### [12/04 - Binary 1 (WIP)]()
+### [12/04 - Binary 1](binary.md)
 
 ### [12/18 - Our Online Tracks](our_online_tracks.md)
 

@@ -63,7 +63,7 @@ I'm looking forward to another great year!
 
 ### [11/27 - What is a File?](what_is_a_file.md)
 
-### [12/11 - Typing 2 (WIP)](typing_2.md)
+### [12/11 - Typing 2](typing_2.md)
 
 
 ## Lessons - Spring
