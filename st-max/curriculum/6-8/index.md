@@ -76,7 +76,7 @@ I am still actively making changes to this curriculum, so things are subject to 
 
 ## Digital Citizenship
 
-### [12/18 - My Media Use: A Personal Challenge](my_media_use_a_personal_challenge.md)
+### [12/18 - Carlo Acutis](carlo_acutis.md)
 
 ---
 
