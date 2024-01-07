@@ -68,7 +68,7 @@ As far as activities on the computer are concerned, kids have a very hard time n
 
 ## Lessons - Spring
 
-### [01/22 - Playing the Game from Scratch](playing_a_game_in_scratch.md)
+### [01/22 - Fractals](fractals.md)
 
 ### [02/05 - How to Navigate an Application 1 (WIP)](how_to_navigate_an_application_1.md)
 
