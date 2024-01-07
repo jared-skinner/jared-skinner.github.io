@@ -68,7 +68,7 @@ I'm looking forward to another great year!
 
 ## Lessons - Spring
 
-### [01/08 - That's Private! (WIP)](thats_private.md)
+### [01/08 - That's Private!](thats_private.md)
 
 ### [01/29 - What is Electricity (WIP)](what_is_electricity.md)
 
