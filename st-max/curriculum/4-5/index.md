@@ -65,7 +65,7 @@ layout: curriculum
 
 ## Lessons - Spring
 
-### [01/08 - Don't Feed the Phish (WIP)]()
+### [01/08 - Don't Feed the Phish](dont_feed_the_phish.md)
 
 ### [01/22 - Excel 1 (WIP)]()
 
