@@ -12,6 +12,10 @@ layout: curriculum
 
 * Play around with making a presentation
 
+## Materials
+
+* [Slides](https://docs.google.com/presentation/d/1JIAshSURfQFcQvKWol2nm_1gvvHmrlcsAH3vFaoaTOc/edit#slide=id.g2603f9d3a8c_0_79)
+
 ## Lesson
 
 * Discuss what a presentation is, common technologies

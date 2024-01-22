@@ -56,7 +56,7 @@ This should be a super fun year.  I've been revising the curriculum from last ye
 
 ## Lessons - Spring
 
-### [01/22 - Presentations 1 (WIP)](presentations_1.md)
+### [01/22 - Presentations 1](presentations_1.md)
 
 ### [02/05 - Artificial Intelligence (WIP)](artificial_intelligence.md)
 
