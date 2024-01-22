@@ -67,7 +67,7 @@ layout: curriculum
 
 ### [01/08 - Don't Feed the Phish](dont_feed_the_phish.md)
 
-### [01/22 - Excel 1 (WIP)]()
+### [01/22 - Excel 1](excel_1.md)
 
 ### [01/29 - Excel 2 (WIP)]()
 
