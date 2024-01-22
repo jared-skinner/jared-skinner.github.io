@@ -65,9 +65,9 @@ I have been working on focusing the curriculum to be a bit more age appropriate.
 
 ## Lessons - Spring
 
-### [01/08 - Using a Track Pad 1 (WIP)](using_a_track_pad_1.md)
+### [01/08 - Computers and Art](computers_and_art.md)
 
-### [01/29 - Computers and Art (WIP)](computers_and_art.md)
+### [01/29 - Using a Track Pad 1](using_a_track_pad_1.md)
 
 ### [02/12 - How Do Keyboards Work? (WIP)](how_do_keyboards_work.md)
 

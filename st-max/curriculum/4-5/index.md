@@ -69,7 +69,7 @@ layout: curriculum
 
 ### [01/22 - Excel 1](excel_1.md)
 
-### [01/29 - Excel 2 (WIP)]()
+### [01/29 - Excel 2](excel_2.md)
 
 ### [02/05 - Excel 3 (WIP)]()
 

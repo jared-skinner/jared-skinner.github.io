@@ -70,7 +70,7 @@ I'm looking forward to another great year!
 
 ### [01/08 - That's Private!](thats_private.md)
 
-### [01/29 - What is Electricity (WIP)](what_is_electricity.md)
+### [01/29 - What is Electricity?](what_is_electricity.md)
 
 ### [02/12 - Word Processing 1 (WIP)](word_processing_1.md)
 
