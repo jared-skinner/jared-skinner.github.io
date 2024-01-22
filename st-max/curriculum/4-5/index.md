@@ -71,7 +71,7 @@ layout: curriculum
 
 ### [01/29 - Excel 2](excel_2.md)
 
-### [02/05 - Excel 3 (WIP)]()
+### [02/05 - Excel 3](excel_3.md)
 
 ### [02/12 - Finding Credible News (WIP)]()
 
