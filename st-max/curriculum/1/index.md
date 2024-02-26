@@ -69,7 +69,7 @@ I have been working on focusing the curriculum to be a bit more age appropriate.
 
 ### [01/29 - Using a Track Pad 1](using_a_track_pad_1.md)
 
-### [02/12 - How Do Keyboards Work? (WIP)](how_do_keyboards_work.md)
+### [02/12 - How Do Keyboards Work?](how_do_keyboards_work.md)
 
 ### [03/04 - Using a Track Pad 2 (WIP)](using_a_track_pad_2.md)
 

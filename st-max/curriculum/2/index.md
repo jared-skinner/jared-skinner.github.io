@@ -72,7 +72,7 @@ I'm looking forward to another great year!
 
 ### [01/29 - What is Electricity?](what_is_electricity.md)
 
-### [02/12 - Word Processing 1 (WIP)](word_processing_1.md)
+### [02/12 - Computer Applications](applications.md)
 
 ### [03/04 - Digital Trends (WIP)](digital_trends.md)
 
