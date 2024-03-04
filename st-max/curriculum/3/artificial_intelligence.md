@@ -16,7 +16,16 @@ layout: curriculum
 
 ## Materials
 
+* playground.tensorflow.org
+
 ## Lesson Plan
 
+* Autocomplete
 
+* Chat GPT
 
+* Midjourney
+
+* Sora
+
+* tensorflow example

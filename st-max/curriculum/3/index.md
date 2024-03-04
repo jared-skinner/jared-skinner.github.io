@@ -58,7 +58,7 @@ This should be a super fun year.  I've been revising the curriculum from last ye
 
 ### [01/22 - Presentations 1](presentations_1.md)
 
-### [02/05 - Artificial Intelligence (WIP)](artificial_intelligence.md)
+### [02/05 - Artificial Intelligence](artificial_intelligence.md)
 
 ### [02/26 - Presentations 2 (WIP)](presentations_2.md)
 
