@@ -74,7 +74,7 @@ I'm looking forward to another great year!
 
 ### [02/12 - Computer Applications](applications.md)
 
-### [03/04 - Digital Trends (WIP)](digital_trends.md)
+### [03/04 - Digital Trails](digital_trails.md)
 
 ### [03/18 - Scratch 1 (WIP)](scratch_1.md)
 

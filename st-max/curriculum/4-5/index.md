@@ -73,7 +73,7 @@ layout: curriculum
 
 ### [02/05 - Excel 3](excel_3.md)
 
-### [02/12 - Finding Credible News (WIP)]()
+### [02/12 - Finding Credible News](finding_credible_news.md)
 
 ### [02/26 - Electricity 1 (WIP)]()
 

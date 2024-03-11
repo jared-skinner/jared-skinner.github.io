@@ -73,7 +73,7 @@ I have been working on focusing the curriculum to be a bit more age appropriate.
 
 ### [03/04 - Using a Track Pad 2 (WIP)](using_a_track_pad_2.md)
 
-### [03/18 - Internet Traffic Light (WIP)](internet_traffic_light.md)
+### [03/18 - Internet Traffic Light](internet_traffic_light.md)
 
 ### [04/08 - What is the Internet? (WIP)](what_is_the_internet.md)
 
