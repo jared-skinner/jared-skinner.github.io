@@ -62,7 +62,7 @@ This should be a super fun year.  I've been revising the curriculum from last ye
 
 ### [02/26 - Presentations 2 (WIP)](presentations_2.md)
 
-### [03/11 - Our Digital Citizenship Pledge (WIP)](our_digital_citizenship_pledge.md)
+### [03/11 - Our Digital Citizenship Pledge](our_digital_citizenship_pledge.md)
 
 ### [04/01 - Online Research (WIP)](online_research.md)
 
