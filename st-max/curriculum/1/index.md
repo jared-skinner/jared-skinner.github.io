@@ -75,7 +75,7 @@ I have been working on focusing the curriculum to be a bit more age appropriate.
 
 ### [03/18 - Internet Traffic Light](internet_traffic_light.md)
 
-### [04/08 - What is the Internet? (WIP)](what_is_the_internet.md)
+### [04/08 - What is the Internet?](what_is_the_internet.md)
 
 ### [04/22 - Typing 1 (WIP)](typing_1.md)
 
