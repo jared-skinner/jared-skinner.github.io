@@ -76,7 +76,7 @@ I'm looking forward to another great year!
 
 ### [03/04 - Digital Trails](digital_trails.md)
 
-### [03/18 - Scratch 1 (WIP)](scratch_1.md)
+### [03/18 - Scratch 1](scratch_1.md)
 
 ### [04/08 - Word Processing 2 (WIP)](word_processing_2.md)
 
