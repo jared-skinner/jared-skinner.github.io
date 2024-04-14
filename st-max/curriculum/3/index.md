@@ -66,7 +66,7 @@ This should be a super fun year.  I've been revising the curriculum from last ye
 
 ### [04/01 - Online Research (WIP)](online_research.md)
 
-### [04/15 - The Power of Words (WIP)](the_power_of_words.md)
+### [04/15 - The Power of Words](the_power_of_words.md)
 
 ### [04/29 - Scratch 1 (WIP)](scratch_1.md)
 
