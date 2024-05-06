@@ -80,7 +80,7 @@ I'm looking forward to another great year!
 
 ### [04/08 - Word Processing 2 (WIP)](word_processing_2.md)
 
-### [04/22 - Who is in Your Online Community (WIP)](who_is_in_your_online_community.md)
+### [04/22 - Who is in Your Online Community](who_is_in_your_online_community.md)
 
 ### [05/06 - Scratch 2 (WIP)](scratch_2.md)
 
