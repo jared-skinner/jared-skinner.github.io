@@ -2,9 +2,9 @@
 layout: curriculum
 ---
 
-# Middle School Curriculum
+# 6th Grade Curriculum
 
-(17 kids)
+(?? kids)
 
 As with the other grades, we are focused on three areas:
 

@@ -49,7 +49,7 @@ I have been working on focusing the curriculum to be a bit more age appropriate.
 
 ## Lessons - Fall
 
-### [09/18 - Parts of a Computer](parts_of_a_computer.md)
+### [09/09 - Parts of a Computer](parts_of_a_computer.md)
 
 ### [10/02 - How to Use a Computer 1](how_to_use_a_computer.md)
 
