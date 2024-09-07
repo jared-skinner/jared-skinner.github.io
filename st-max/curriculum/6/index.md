@@ -26,52 +26,42 @@ The digital citizenship lessons are coming from Common Sense Media.  I don't hav
 
 The programming units focus on scratch, python, and physical computing.  A goal of the programming will be an introduction to logic and how to think clearly.  Programming lends itself well to understanding logical syllogisms. 
 
-I am still actively making changes to this curriculum, so things are subject to change.
-
 ---
 
 ## AI
 
-### [09/11 - AI and Academic Honesty](ai_and_academic_honesty.md)
+### [09/09 - AI and Academic Honesty](ai_and_academic_honesty.md)
 
 
 ## Digital Citizenship
 
-### [09/18 - Chatting and Red Flags](chatting_and_red_flags.md)
+### [09/16 - The Power of Digital Footprints](the_power_of_digital_footprints.md)
 
 
 ## How a Computer Works
 
-### [09/25 - Computer Tear Down](computer_tear_down.md)
+### [09/23 - Computer Tear Down](computer_tear_down.md)
 
-### [10/02 - The File System](the_file_system.md)
+### [09/30 - The File System](the_file_system.md)
 
-### [10/09 - The Open Source Community](the_open_source_community.md)
+### [10/07 - OUT OF OFFICE (I will have a video to share with the students)]()
 
-### [10/16 - What is an Operating System?](what_is_an_operating_system.md)
+### [10/14 - The Open Source Community](the_open_source_community.md)
 
-### [10/23 - Linux](linux.md)
+### [10/21 - What is an Operating System?](what_is_an_operating_system.md)
 
-### [10/30 - The Right to Repair](the_right_to_repair.md)
-
-### [11/06 - How Networking Works 1](how_networking_works_1.md)
-
-### [11/06 - How Networking Works 2](how_networking_works_2.md)
-
-## Digital Citizenship
-
-### [11/13 - The Power of Digital Footprints](the_power_of_digital_footprints.md)
+### [10/28 - The Right to Repair](the_right_to_repair.md)
 
 
 ## Scratch Programming
 
-### [11/20 - Scratch Programming 1](scratch_1.md)
+### [11/04 - Scratch Programming 1](scratch_1.md)
 
-### [11/27 - Scratch Programming 2](scratch_2.md)
+### [11/11 - Scratch Programming 2](scratch_2.md)
 
-### [12/04 -  Scratch Programming 3](scratch_3.md)
+### [11/18 - Scratch Programming 3](scratch_3.md)
 
-### [12/11 - Scratch Programming 4](scratch_4.md)
+### [11/25 - Scratch Programming 4](scratch_4.md)
 
 
 ## Digital Citizenship
