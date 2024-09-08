@@ -33,7 +33,7 @@ layout: curriculum
 
 ## Lessons - Fall
 
-### [09/11 - Artificial Intelligence and Academic Honesty](ai_and_academic_honesty.md)
+### [09/09 - Artificial Intelligence and Academic Honesty](ai_and_academic_honesty.md)
 
 ### [09/18 - Word Processing 1](word_processing_1.md)
 

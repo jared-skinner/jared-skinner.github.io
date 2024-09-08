@@ -38,6 +38,8 @@ This should be a super fun year.  I've been revising the curriculum from last ye
 
 ## Lessons - Fall
 
+### [09/09 - Artificial Intelligence](artificial_intelligence.md)
+
 ### [09/11 - Magnets and Electricity](magnets_and_electricity.md)
 
 ### [09/25 - Typing](typing.md)
@@ -57,8 +59,6 @@ This should be a super fun year.  I've been revising the curriculum from last ye
 ## Lessons - Spring
 
 ### [01/22 - Presentations 1](presentations_1.md)
-
-### [02/05 - Artificial Intelligence](artificial_intelligence.md)
 
 ### [02/26 - Presentations 2 (WIP)](presentations_2.md)
 
